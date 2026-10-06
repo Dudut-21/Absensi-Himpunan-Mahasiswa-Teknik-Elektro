@@ -1,0 +1,19 @@
+# Sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Data absensi dan foto peserta (jangan pernah di-commit)
+*.csv
+*.xlsx
+data/
+fotos/
+
+# Catatan lokal
+.env
+*.local
+*.log
